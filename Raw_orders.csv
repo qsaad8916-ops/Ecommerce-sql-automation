@@ -1,0 +1,8 @@
+order_id,city,category,amount,status
+101,Mumbai,Electronics,25000,Delivered
+102,Pune,Fashion,3200,Delivered
+103,Mumbai,Fashion,2100,Delivered
+104,Delhi,Electronics,18000,Cancelled
+105,Mumbai,Accessories,1500,Delivered
+106,Pune,Electronics,22000,Delivered
+107,Delhi,Fashion,4500,Delivered
